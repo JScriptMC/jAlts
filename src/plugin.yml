@@ -1,0 +1,5 @@
+name: jAlts
+author: JSkript
+description: JSkripts Account Authentication.
+main: spigot.jskript.Main
+version: 0.1-STABLE
